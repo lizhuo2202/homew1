@@ -1,0 +1,20 @@
+html{
+    font-size:18px;
+}
+
+.registry caption{
+    text-align: left;
+    color:blue;
+    margin: 1rem;
+
+}
+.registry{
+    width:30rem;
+    border:1px solid black;
+}
+.registry th{
+    text-align: right;
+}
+.bottom{
+    margin-left: 10rem;
+}
